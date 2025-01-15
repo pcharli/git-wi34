@@ -5,6 +5,10 @@ main {
     padding: 6px;
 }
 
+header {
+    background-color: orange;
+}
+
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: silver;
