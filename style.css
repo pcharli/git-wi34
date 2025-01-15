@@ -1,4 +1,11 @@
 main {
     width: 50%;
     margin: auto;
+    border: 1px solid red;
+    padding: 6px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: silver;
 }
