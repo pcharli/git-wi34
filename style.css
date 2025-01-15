@@ -1,15 +1,20 @@
-main {
-    width: 50%;
-    margin: auto;
-    border: 1px solid blue;
-    padding: 6px;
+footer {
+  background: black;
+  color: white;
 }
 
 header {
-    background-color: orange;
+  background-color: rgb(0, 125, 125);
+  color: black;
+}
+
+.sidebar {
+  max-width: 30%;
+}
+.sidebar_title {
+  color: red;
 }
 
 body {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: green;
-}
+  background-color: rgb(0, 125, 125);
+}/*# sourceMappingURL=style.css.map */
