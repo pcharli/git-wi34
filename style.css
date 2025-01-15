@@ -1,7 +1,7 @@
 main {
     width: 50%;
     margin: auto;
-    border: 1px solid red;
+    border: 1px solid blue;
     padding: 6px;
 }
 
@@ -11,5 +11,5 @@ header {
 
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: silver;
+    background-color: green;
 }
